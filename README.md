@@ -1,5 +1,5 @@
 # TaskExecuter-for-blocking-FIFO
-This is a TaskExecutor service to manage a multi-threaded process using Blocking FIFO queue.
+This is a TaskExecutor service to manage a multi-threaded process using Blocking FIFO queue developed for CS5348 course at UTD.
 
 This is a starter project can be used as a foundation of TaskExecutor implementations. 
 
